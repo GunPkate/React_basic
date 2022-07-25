@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# React 101  (React Components, Props, State, Hook and calling REST API)
+![image](https://user-images.githubusercontent.com/77183620/180698635-431c8c70-43af-47e1-a552-10c2582af9e6.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
